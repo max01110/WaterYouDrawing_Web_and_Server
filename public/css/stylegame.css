@@ -1,0 +1,20 @@
+
+body {
+    height: 100%;
+    background-image: linear-gradient(to right, RGB(157, 125, 163) , RGB(0, 158, 253));
+  }
+  
+  body {
+    margin: 0;
+    display: flex;
+  
+    /* This centers our sketch horizontally. */
+    justify-content: center;
+  
+    /* This centers our sketch vertically. */
+    align-items: top;
+  }
+
+  form {
+    display: inline-block;
+}
